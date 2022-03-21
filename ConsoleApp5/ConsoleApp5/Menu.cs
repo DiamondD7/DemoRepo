@@ -20,6 +20,8 @@ namespace ConsoleApp5
             get { return (15 / 100) * FoodPrice; }
         }
 
+        //this is just a test
+
         public Menu(string _foodname, int _foodid, double _foodprice)
         {
             FoodName = _foodname;
